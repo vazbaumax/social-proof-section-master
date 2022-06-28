@@ -133,6 +133,7 @@ body {
 
 .socialproof-cmpnt__testimonialscards-sec__card__fullname {
   font-weight: 700;
+  font-size: 1.3rem;
   height: fit-content;
   line-height: 20px;
   align-self: center;
